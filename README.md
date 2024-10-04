@@ -15,4 +15,5 @@ This repo is used to display the petFoodCal APP, it does not include .plist, and
 
 
 ## Display APP
-![Pet Food Calculator - Home] 
+![Pet Food Calculator - Home](https://github.com/Chenxi6132/Display_petFoodCal/blob/main/Pictures/home.png)
+![Pet Food Calculator - My Account]()
