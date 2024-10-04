@@ -12,3 +12,7 @@ This repo is used to display the petFoodCal APP, it does not include .plist, and
 - Quick login by Phone / Gamil / Apple
 - auto-generate recipe and nutrition chart (still working on it)
 - user profile and pet profile (still working on it)
+
+
+## Display APP
+![Pet Food Calculator - Home] 
